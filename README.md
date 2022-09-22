@@ -1,6 +1,9 @@
 course name: [NEW] React + Firebase: For Beginners
+
 Instructor: Daniel Arzuaga
+
 course type: free
+
 course link: https://www.udemy.com/course/new-react-firebase-real-time-serverless-apps/learn/lecture/16961368#overview
 # Getting Started with Create React App
 
